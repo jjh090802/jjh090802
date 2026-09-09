@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm 전재현 (Jeon Jaehyeon) 👋</h1> <h3 align="center">Frontend Developer / Full-Stack Web Developer</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%2B+TypeScript+%2B+Next.js;Always+building%2C+always+learning." alt="Typing SVG" /> </p>
 
 <!--
 **jjh090802/jjh090802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

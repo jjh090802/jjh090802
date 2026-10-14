@@ -11,14 +11,10 @@
 ```js
 const jaehyeon = {
   name: "전재현 (Jeon Jaehyeon)",
-  brand: "JEWOON",
-  role: "Frontend Developer",
   school: "영남공업고등학교 스마트소프트웨어과 2학년 (2025년 신설 학과 1기)",
-  stack: ["HTML", "CSS", "JavaScript", "React", "Vue.js"],
+  stack: ["HTML", "CSS", "JavaScript"],
   levelingUp: ["TypeScript", "Next.js"],
-  alsoTouched: ["Java", "Spring Boot", "PHP", "MySQL"],
-  goal: "React + TypeScript + Next.js 기반 프론트엔드 개발자",
-  motto: "Always building, always learning."
+  alsoTouched: ["Java","PHP", "MySQL"],
 };
 ```
 

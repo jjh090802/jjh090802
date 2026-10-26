@@ -1,5 +1,4 @@
 # 전재현 (Jeon Jaehyeon)
-### Frontend Developer
 
 [![Email](https://img.shields.io/badge/Email-j01092014477%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j01092014477@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jjh090802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjh090802)
